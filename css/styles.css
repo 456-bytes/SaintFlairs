@@ -1,0 +1,103 @@
+/* id SELECTORS*/
+#title{
+  text-align: left;
+}
+
+/* features */
+#features{
+  padding: 5% 9%;
+}
+
+#testimonials{
+  padding: 10%;
+}
+
+#cta{
+  padding: 7% 0 7%;
+  margin-top: 0;
+}
+#pricing{
+  padding: 90px;
+  background-color: black;
+}
+
+/* tag SELECTORS */
+h1{
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+  padding-top: 4rem;
+}
+
+body{
+  font-family: "Montserrat-light";
+  text-align: center;
+}
+
+h1,h2,h3{
+  font-family: "Montserrat-bold";
+}
+
+
+/* class SELECTORS */
+.testimonial-img{
+  width:20%;
+}
+
+.testimonial-img,.title-img{
+  border-radius: 8%;
+}
+.navbar-collapse{
+  margin-left:52.5rem;
+}
+
+.download-button{
+  margin: 3rem 0.5rem;
+}
+
+.title-img{
+  margin: 20px 5px;
+}
+
+.navbar-brand{
+  font-family: "potta one";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.container-fluid{
+  padding: 3% 15% 10%;
+}
+
+.img-col{
+  padding-top: 70px;
+}
+
+.icon{
+  color:black;
+  margin: 1rem;
+  font-size: 8rem;
+}
+
+.icon:hover,.social-icons:hover{
+  color: #4ecdc4;
+}
+
+.row-cols-1{
+  padding: 3rem 0;
+}
+
+.price-head,.dark-theme{
+  color: #fff;
+}
+
+.social-icons{
+  margin: 20px 10px;
+}
+
+.dark-theme{
+  background-color:#1a535c;
+}
+.light-theme{
+  background-color: #4ecdc4;
+}
